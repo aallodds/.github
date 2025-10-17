@@ -2,10 +2,13 @@
 
 Est. 10/05/2025
 
+**Logo is temporary!**
+
 Founders:
 - Grant Abernathy
 - Kendalynn Kohler
 
-Projects to come
+Projects:
+- Ken (Game Engine)
 
 - Grant, :D
