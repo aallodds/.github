@@ -79,6 +79,7 @@
 *__pycache__/
 
 # Only ignore in root!
-/bin/
-/src/objects/
-/src/lib/
+/Bin/
+/Intermediate/
+/Lib/
+/Saved/
